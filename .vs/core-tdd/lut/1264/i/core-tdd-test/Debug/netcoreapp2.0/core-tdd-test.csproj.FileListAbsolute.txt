@@ -1,0 +1,12 @@
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\b\core-tdd-test\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\b\core-tdd-test\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\b\core-tdd-test\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\b\core-tdd-test\Debug\netcoreapp2.0\core-tdd-test.deps.json
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\b\core-tdd-test\Debug\netcoreapp2.0\core-tdd-test.runtimeconfig.json
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\b\core-tdd-test\Debug\netcoreapp2.0\core-tdd-test.runtimeconfig.dev.json
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\b\core-tdd-test\Debug\netcoreapp2.0\core-tdd-test.dll
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\i\core-tdd-test\Debug\netcoreapp2.0\core-tdd-test.csproj.CoreCompileInputs.cache
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\i\core-tdd-test\Debug\netcoreapp2.0\core-tdd-test.AssemblyInfoInputs.cache
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\i\core-tdd-test\Debug\netcoreapp2.0\core-tdd-test.AssemblyInfo.cs
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\i\core-tdd-test\Debug\netcoreapp2.0\core-tdd-test.csproj.CopyComplete
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\i\core-tdd-test\Debug\netcoreapp2.0\core-tdd-test.dll

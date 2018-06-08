@@ -1,0 +1,17 @@
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\bin\Debug\netcoreapp2.0\core-tdd-test.deps.json
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\bin\Debug\netcoreapp2.0\core-tdd-test.runtimeconfig.json
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\bin\Debug\netcoreapp2.0\core-tdd-test.runtimeconfig.dev.json
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\bin\Debug\netcoreapp2.0\core-tdd-test.dll
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\bin\Debug\netcoreapp2.0\core-tdd-test.pdb
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\obj\Debug\netcoreapp2.0\core-tdd-test.csprojAssemblyReference.cache
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\obj\Debug\netcoreapp2.0\core-tdd-test.csproj.CoreCompileInputs.cache
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\obj\Debug\netcoreapp2.0\core-tdd-test.AssemblyInfoInputs.cache
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\obj\Debug\netcoreapp2.0\core-tdd-test.AssemblyInfo.cs
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\obj\Debug\netcoreapp2.0\core-tdd-test.dll
+c:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\obj\Debug\netcoreapp2.0\core-tdd-test.pdb
+C:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\bin\Debug\netcoreapp2.0\core-tdd.dll
+C:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\bin\Debug\netcoreapp2.0\core-tdd.pdb
+C:\Users\msoni2\Source\Repos\core-tdd\core-tdd-test\obj\Debug\netcoreapp2.0\core-tdd-test.csproj.CopyComplete

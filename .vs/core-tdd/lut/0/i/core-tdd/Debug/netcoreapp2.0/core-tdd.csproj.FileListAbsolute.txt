@@ -1,0 +1,10 @@
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\b\core-tdd\Debug\netcoreapp2.0\core-tdd.deps.json
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\b\core-tdd\Debug\netcoreapp2.0\core-tdd.runtimeconfig.json
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\b\core-tdd\Debug\netcoreapp2.0\core-tdd.runtimeconfig.dev.json
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\b\core-tdd\Debug\netcoreapp2.0\core-tdd.dll
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\i\core-tdd\Debug\netcoreapp2.0\core-tdd.csprojAssemblyReference.cache
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\i\core-tdd\Debug\netcoreapp2.0\core-tdd.csproj.CoreCompileInputs.cache
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\i\core-tdd\Debug\netcoreapp2.0\core-tdd.AssemblyInfoInputs.cache
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\i\core-tdd\Debug\netcoreapp2.0\core-tdd.AssemblyInfo.cs
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\i\core-tdd\Debug\netcoreapp2.0\core-tdd.csproj.CopyComplete
+C:\Users\msoni2\Source\Repos\core-tdd\.vs\core-tdd\lut\0\i\core-tdd\Debug\netcoreapp2.0\core-tdd.dll
